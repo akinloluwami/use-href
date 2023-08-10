@@ -1,6 +1,6 @@
 {
   "name": "use-href",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A react hook for handling URL parameters",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/akinkloluwami/use-href.git"
+    "url": "git+https://github.com/akinloluwami/use-href.git"
   },
   "author": "Akinkunmi",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/akinkloluwami/use-href/issues"
+    "url": "https://github.com/akinloluwami/use-href/issues"
   },
-  "homepage": "https://github.com/akinkloluwami/use-href#readme",
+  "homepage": "https://github.com/akinloluwami/use-href#readme",
   "dependencies": {
     "@types/react": "^18.2.20",
     "@types/react-dom": "^18.2.7",
