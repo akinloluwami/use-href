@@ -93,4 +93,4 @@ This project is licensed under the [ISC License](LICENSE).
 
 ## Issues
 
-If you encounter any issues or have questions, please [open an issue](https://github.com/akinkloluwami/use-href/issues) on GitHub.
+If you encounter any issues or have questions, please [open an issue](https://github.com/akinloluwami/use-href/issues) on GitHub.
