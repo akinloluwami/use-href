@@ -1,4 +1,3 @@
-```
 # useHref
 
 `useHref` is a custom React hook that provides functionalities for handling URL parameters.
@@ -11,7 +10,7 @@ To use `useHref` in your React project, you need to install it as a dependency.
 
 npm i use-href
 
-````
+```
 
 ## Usage
 
@@ -31,7 +30,7 @@ function MyComponent() {
 }
 
 export default MyComponent;
-````
+```
 
 ## API Reference
 
@@ -95,7 +94,3 @@ This project is licensed under the [ISC License](LICENSE).
 ## Issues
 
 If you encounter any issues or have questions, please [open an issue](https://github.com/akinkloluwami/use-href/issues) on GitHub.
-
-```
-
-```
